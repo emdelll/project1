@@ -10,3 +10,14 @@ h1{
 .logo{
 	font-size:4em;
 }
+.highlight{
+	background-color:yellow;
+} 
+body {background:url("../img/diagonales_decalees.png");
+}
+/*body {background-color:#e5d7ca;*/
+}
+a {color:#9011d4;
+}
+.index{list-style:none;
+}
